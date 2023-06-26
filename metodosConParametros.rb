@@ -67,3 +67,6 @@ when 6
 else
   print "Opción no válida"
 end
+
+
+
